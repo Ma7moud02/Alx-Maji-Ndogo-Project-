@@ -42,6 +42,7 @@ This project was guided by key objectives to address critical water access chall
 ## 📊 **Data Overview and Schema**  
 
 ### **Dataset Schema Overview**  
+![Water Sources Breakdown & Population Distribution](dashboard/Data%20Schema.jpg)
 The dataset simulated real-world challenges, covering:  
 
 1. **Visits Table**  
@@ -76,7 +77,8 @@ ETL Tool : Power Query
 
 ## 📋 **Dashboard Pages and Analysis**  
 
-### **Page 1: Water Sources Breakdown & Population Distribution** 🌍  
+### **Page 1: Water Sources Breakdown & Population Distribution** 🌍 
+![Page 1 Water Sources Breakdown & Population Distribution](dashboard/Page%201%20Water%20Sources%20Breakdown%20&%20Population%20Distribution.jpg)  
 **Overview:**  
 This page provides a comprehensive overview of the population distribution and water source types, highlighting access disparities between rural and urban areas.  
 
@@ -92,7 +94,8 @@ This page provides a comprehensive overview of the population distribution and w
 
 ---
 
-### **Page 2: Queue Time Analysis** ⏳  
+### **Page 2: Queue Time Analysis** ⏳ 
+![Page 2 Queue Time Analysis](dashboard/Page%202%20Queue%20Time%20Analysis.jpg)  
 **Overview:**  
 This page analyzes queue times at shared taps, the most common water source in the region.  
 
@@ -108,6 +111,7 @@ This page analyzes queue times at shared taps, the most common water source in t
 ---
 
 ### **Page 3: Crime Rate Analysis** 🚨  
+![Page 3 Crime Rate Analysis](dashboard/Page%203%20Crime%20Rate%20Analysis.jpg) 
 **Overview:**  
 This page examines the relationship between crime rates and water access points.  
 
@@ -122,6 +126,7 @@ This page examines the relationship between crime rates and water access points.
 ---
 
 ### **Page 4: Well Contamination Analysis** 🧪  
+![Page 4 Well Contamination Analysis](dashboard/Page%204%20Well%20Contamination%20Analysis.jpg)  
 **Overview:**  
 This page focuses on the contamination levels of wells, a vital water source for rural areas.  
 
@@ -136,7 +141,8 @@ This page focuses on the contamination levels of wells, a vital water source for
 
 ---
 
-### **Page 5: Improvements**  
+### **Page 5: Improvements** 
+![Page 5 Improvements](dashboard/Page%205%20Improvements.jpg)  
 **Overview:**  
 This page assesses the infrastructure improvements needed to address water access issues.  
 
@@ -151,6 +157,7 @@ This page assesses the infrastructure improvements needed to address water acces
 ---
 
 ### **Page 6: Cost of Improvements & Budgeting** 💰  
+![Page 6 Cost and Budgeting](dashboard/Page%206%20Cost%20and%20Budgeting.jpg)  
 **Overview:**  
 This page provides an analysis of the costs associated with water infrastructure improvements.  
 
@@ -166,6 +173,7 @@ This page provides an analysis of the costs associated with water infrastructure
 ---
 
 ### **Page 7: Cost and Budgeting Evaluation** 📊  
+![Page 7 Cost and Budgeting Evaluation](dashboard/Page%207%20Cost%20and%20Budgeting%20Evaluation.jpg)  
 **Overview:**  
 This page evaluates the budget allocation and provides insights into the overall financial planning for the water access improvements.  
 
@@ -180,6 +188,7 @@ This page evaluates the budget allocation and provides insights into the overall
 ---
 
 ### **Page 8: Vendor Performance Analysis** 🔧  
+![Page 8 Vendor Performance Analysis](dashboard/Page%208%20Vendor%20Performance%20Analysis.jpg) 
 **Overview:**  
 This page assesses the performance of vendors responsible for implementing water infrastructure improvements.  
 
