@@ -76,86 +76,119 @@ ETL Tool : Power Query
 
 ### **Page 1: Water Sources Breakdown & Population Distribution** 🌍  
 **Overview:**  
-This page provides a comprehensive overview of the population distribution and water source types, highlighting disparities.  
+This page provides a comprehensive overview of the population distribution and water source types, highlighting access disparities between rural and urban areas.  
 
 **Key Insights:**  
-- **64%** of the population resides in rural areas with limited water access.  
-- **43.84%** rely on shared taps, while **17.38%** use contaminated wells.  
-- Only **33.55%** have basic access to water services.  
+- **64%** of the population resides in rural areas, with limited access to clean water.  
+- **43.84%** rely on shared taps, and **17.38%** use contaminated wells.  
+- Unsafe sources like rivers are still used by **14.54%** of the population.  
+- **33.55%** of the population has basic access to water services.  
 
 **Recommendations:**  
-- Expand shared tap infrastructure in rural areas.  
-- Repair and maintain broken water sources.  
+- Increase shared tap infrastructure in rural areas.  
+- Repair and maintain broken water sources to enhance access.  
 
-
+---
 
 ### **Page 2: Queue Time Analysis** ⏳  
 **Overview:**  
-Analyzes queue times at shared taps, the most common water source.  
+This page analyzes queue times at shared taps, the most common water source in the region.  
 
 **Key Insights:**  
-- Saturdays have the longest queue times, averaging **246 minutes**.  
-- Women make up **66%** of those queuing, reflecting a significant gender burden.  
+- **Saturdays** have the longest queue times, averaging **246 minutes**.  
+- **Weekday queue times** peak between 12 PM and 6 PM, with the highest average of **282 minutes** on Saturdays.  
+- **66%** of those queuing are women, indicating a significant gender burden.  
 
 **Recommendations:**  
-- Install additional shared taps in high-demand areas.  
+- Install additional shared taps in high-demand areas to reduce wait times.  
 - Implement scheduling systems to spread out peak usage.  
 
-
+---
 
 ### **Page 3: Crime Rate Analysis** 🚨  
 **Overview:**  
-Examines the relationship between crime rates and water access points.  
+This page examines the relationship between crime rates and water access points.  
 
 **Key Insights:**  
-- Over **77,000 crimes** were reported near water sources, with women accounting for **64%** of victims.  
+- Over **77,000 crimes** were reported near water sources, with **64%** of victims being women.  
 - Theft and harassment are the most common crimes, often occurring during long queues.  
 
 **Recommendations:**  
 - Enhance security at high-traffic shared taps.  
 - Reduce waiting times to minimize crime opportunities.  
 
-
+---
 
 ### **Page 4: Well Contamination Analysis** 🧪  
 **Overview:**  
-Focuses on contamination levels in wells, a critical water source for rural areas.  
+This page focuses on the contamination levels of wells, a vital water source for rural areas.  
 
 **Key Insights:**  
-- **56%** of wells are chemically polluted.  
-- **44%** are biologically contaminated, causing widespread health risks.  
+- **Average Pollution Level**: **2.28** (on a scale of 0 to 5).  
+- **Total Number of Tests**: **17,380**.  
+- About **71.5%** of wells are contaminated, with **40.8%** being chemically polluted and **30.92%** biologically contaminated.  
 
 **Recommendations:**  
 - Deploy RO and UV filters to treat wells.  
-- Conduct regular water quality monitoring and educate communities.  
+- Conduct regular water quality monitoring and educate communities on contamination prevention.  
 
+---
 
-
-### **Page 5: Improvements and Budgeting** 💰  
+### **Page 5: Improvements**  
 **Overview:**  
-Evaluates infrastructure improvements and their associated costs.  
+This page assesses the infrastructure improvements needed to address water access issues.  
 
 **Key Insights:**  
-- **7,093 RO filters** and **3,379 new wells** are needed, costing **$146.74M**.  
-- **80%** of the budget is allocated to rural areas.  
+- Key improvements include the installation of **RO filters** and the drilling of new wells.  
+- Rural areas account for a substantial share of improvements needed.  
 
 **Recommendations:**  
-- Prioritize impactful improvements like RO filters and new wells.  
-- Use dashboards for transparent resource allocation.  
+- Prioritize high-impact improvements such as the installation of RO filters and drilling new wells.  
+- Use performance dashboards to ensure the efficient allocation of resources for these improvements.  
 
+---
 
-
-### **Page 6: Vendor Performance Analysis** 🔧  
+### **Page 6: Cost of Improvements & Budgeting** 💰  
 **Overview:**  
-Assesses vendor efficiency in completing infrastructure projects.  
+This page provides an analysis of the costs associated with water infrastructure improvements.  
 
 **Key Insights:**  
-- **25,398 projects** were completed, with most focused on rural areas.  
-- Variability in vendor performance underscores the need for strict monitoring.  
+- **RO filters**: **7,093** required, costing **$39.96M**.  
+- **New wells**: **3,379** required, costing **$38.86M**.  
+- The total improvement cost is estimated to be **$146.74M**, with **80%** allocated to rural areas.  
 
 **Recommendations:**  
-- Hold vendors accountable with performance metrics.  
-- Establish benchmarks to ensure timely and cost-effective delivery.  
+- Allocate resources efficiently, prioritizing areas with the highest need.  
+- Ensure that funds are used transparently, as shown through performance dashboards.  
+
+---
+
+### **Page 7: Cost and Budgeting Evaluation** 📊  
+**Overview:**  
+This page evaluates the budget allocation and provides insights into the overall financial planning for the water access improvements.  
+
+**Key Insights:**  
+- The total budget required for the infrastructure improvements is **$146.74M**.  
+- Most of the resources need to be directed toward rural communities, which face the highest challenges in water access.  
+
+**Recommendations:**  
+- Ensure the appropriate allocation of funds based on priority areas.  
+- Use dashboards to track spending, ensuring maximum impact and resource optimization.  
+
+---
+
+### **Page 8: Vendor Performance Analysis** 🔧  
+**Overview:**  
+This page assesses the performance of vendors responsible for implementing water infrastructure improvements.  
+
+**Key Insights:**  
+- **25,398 projects** were completed, focusing mostly on rural areas.  
+- Vendor performance varied, with some vendors exceeding budget and delivery time.  
+
+**Recommendations:**  
+- Monitor vendor performance using defined metrics to ensure timely, cost-effective delivery of infrastructure.  
+- Set benchmarks for vendor efficiency to improve project timelines and cost management.  
+
 
 
 ## 💡 **Proposed Solutions**  
