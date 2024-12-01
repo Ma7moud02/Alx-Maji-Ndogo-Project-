@@ -142,7 +142,7 @@ This page focuses on the contamination levels of wells, a vital water source for
 ---
 
 ### **Page 5: Improvements** 
-![Page 5 Improvements](dashboard/Page%205%20Improvements.jpg)  
+![Page 5 Improvements](dashboard/Page%205%20Improvements%20.jpg)
 **Overview:**  
 This page assesses the infrastructure improvements needed to address water access issues.  
 
@@ -188,7 +188,7 @@ This page evaluates the budget allocation and provides insights into the overall
 ---
 
 ### **Page 8: Vendor Performance Analysis** 🔧  
-![Page 8 Vendor Performance Analysis](dashboard/Page%208%20Vendor%20Performance%20Analysis.jpg) 
+![Page 8 Vendor Performance Analysis](dashboard/Page%208%20Vendor%20Performance%20Analysis%20.jpg) 
 **Overview:**  
 This page assesses the performance of vendors responsible for implementing water infrastructure improvements.  
 
