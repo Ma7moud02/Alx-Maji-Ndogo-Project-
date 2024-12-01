@@ -10,11 +10,13 @@
    - [Page 2: Queue Time Analysis](#page-2-queue-time-analysis)  
    - [Page 3: Crime Rate Analysis](#page-3-crime-rate-analysis)  
    - [Page 4: Well Contamination Analysis](#page-4-well-contamination-analysis)  
-   - [Page 5: Improvements and Budgeting](#page-5-improvements-and-budgeting)  
-   - [Page 6: Vendor Performance Analysis](#page-6-vendor-performance-analysis)  
+   - [Page 5: Improvements](#page-5-improvements)  
+   - [Page 6: Cost of Improvements & Budgeting](#page-6-cost-of-improvements--budgeting)  
+   - [Page 7: Cost and Budgeting Evaluation](#page-7-cost-and-budgeting-evaluation)  
+   - [Page 8: Vendor Performance Analysis](#page-8-vendor-performance-analysis)  
 6. [Proposed Solutions](#proposed-solutions)  
 7. [Impact of Proposed Changes](#impact-of-proposed-changes)  
-8. [Conclusion](#conclusion)  
+8. [Conclusion](#conclusion) 
 
 
 ## **Introduction**  
