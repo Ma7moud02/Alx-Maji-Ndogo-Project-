@@ -16,7 +16,7 @@
 7. [Impact of Proposed Changes](#impact-of-proposed-changes)  
 8. [Conclusion](#conclusion)  
 
----
+
 ## **Introduction**  
 Access to clean water is a basic human right, but for millions in African communities, it remains a daily struggle. Hours spent queuing for water at shared taps, reliance on contaminated wells, and a lack of safe infrastructure have created a significant public health and social crisis.  
 
@@ -24,7 +24,7 @@ The **Maji Ndogo Project** was designed to analyze these challenges through data
 
 This report documents the tools, methods, and insights from this project, initially developed during the **ALX Data Science Program** and recently enhanced with additional analysis and storytelling elements.  
 
----
+
 
 ## 🎯 **Project Goals and Questions**  
 
@@ -35,7 +35,7 @@ This project was guided by key objectives to address critical water access chall
 4. What is the relationship between water access points and crime rates?  
 5. How can resources be optimally allocated to maximize the impact of improvements?  
 
----
+
 
 ## 📊 **Data Overview and Schema**  
 
@@ -55,7 +55,7 @@ The dataset simulated real-world challenges, covering:
 6. **Project Progress Table**  
    - Monitors infrastructure improvements, including costs, vendor performance, and completion status.  
 
----
+
 
 ## 🛠 **Tools and Techniques**  
 
@@ -70,8 +70,7 @@ The dataset simulated real-world challenges, covering:
 ### **3. Power BI**  
 - Built dynamic dashboards for interactive analysis.  
 - Visualized data to uncover insights and tell impactful stories.  
-
----
+ETL Tool : Power Query
 
 ## 📋 **Dashboard Pages and Analysis**  
 
@@ -88,7 +87,7 @@ This page provides a comprehensive overview of the population distribution and w
 - Expand shared tap infrastructure in rural areas.  
 - Repair and maintain broken water sources.  
 
----
+
 
 ### **Page 2: Queue Time Analysis** ⏳  
 **Overview:**  
@@ -102,7 +101,7 @@ Analyzes queue times at shared taps, the most common water source.
 - Install additional shared taps in high-demand areas.  
 - Implement scheduling systems to spread out peak usage.  
 
----
+
 
 ### **Page 3: Crime Rate Analysis** 🚨  
 **Overview:**  
@@ -116,7 +115,7 @@ Examines the relationship between crime rates and water access points.
 - Enhance security at high-traffic shared taps.  
 - Reduce waiting times to minimize crime opportunities.  
 
----
+
 
 ### **Page 4: Well Contamination Analysis** 🧪  
 **Overview:**  
@@ -130,7 +129,7 @@ Focuses on contamination levels in wells, a critical water source for rural area
 - Deploy RO and UV filters to treat wells.  
 - Conduct regular water quality monitoring and educate communities.  
 
----
+
 
 ### **Page 5: Improvements and Budgeting** 💰  
 **Overview:**  
@@ -144,7 +143,7 @@ Evaluates infrastructure improvements and their associated costs.
 - Prioritize impactful improvements like RO filters and new wells.  
 - Use dashboards for transparent resource allocation.  
 
----
+
 
 ### **Page 6: Vendor Performance Analysis** 🔧  
 **Overview:**  
@@ -158,7 +157,6 @@ Assesses vendor efficiency in completing infrastructure projects.
 - Hold vendors accountable with performance metrics.  
 - Establish benchmarks to ensure timely and cost-effective delivery.  
 
----
 
 ## 💡 **Proposed Solutions**  
 
@@ -168,7 +166,7 @@ Assesses vendor efficiency in completing infrastructure projects.
 4. **Community Education**: Train locals to maintain water sources and prevent contamination.  
 5. **Vendor Management**: Use dashboards to track progress and ensure accountability.  
 
----
+
 
 ## 🌟 **Impact of Proposed Changes**  
 
@@ -177,7 +175,7 @@ Assesses vendor efficiency in completing infrastructure projects.
 - **Crime Reduction**: Enhanced security and reduced congestion lower crime rates by **25%**.  
 - **Optimized Budgeting**: Transparent allocation ensures maximum impact from the **$147M budget**.  
 
----
+
 
 ## 📜 **Conclusion**  
 
