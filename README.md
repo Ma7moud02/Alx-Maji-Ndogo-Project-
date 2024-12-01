@@ -1,5 +1,22 @@
 # 🌍 **Maji Ndogo Water Crisis Analysis** 💧
 
+## **Table of Contents**  
+1. [Introduction](#introduction)  
+2. [Project Goals and Questions](#project-goals-and-questions)  
+3. [Data Overview and Schema](#data-overview-and-schema)  
+4. [Tools and Techniques](#tools-and-techniques)  
+5. [Dashboard Pages and Analysis](#dashboard-pages-and-analysis)  
+   - [Page 1: Water Sources Breakdown & Population Distribution](#page-1-water-sources-breakdown--population-distribution)  
+   - [Page 2: Queue Time Analysis](#page-2-queue-time-analysis)  
+   - [Page 3: Crime Rate Analysis](#page-3-crime-rate-analysis)  
+   - [Page 4: Well Contamination Analysis](#page-4-well-contamination-analysis)  
+   - [Page 5: Improvements and Budgeting](#page-5-improvements-and-budgeting)  
+   - [Page 6: Vendor Performance Analysis](#page-6-vendor-performance-analysis)  
+6. [Proposed Solutions](#proposed-solutions)  
+7. [Impact of Proposed Changes](#impact-of-proposed-changes)  
+8. [Conclusion](#conclusion)  
+
+---
 ## **Introduction**  
 Access to clean water is a basic human right, but for millions in African communities, it remains a daily struggle. Hours spent queuing for water at shared taps, reliance on contaminated wells, and a lack of safe infrastructure have created a significant public health and social crisis.  
 
