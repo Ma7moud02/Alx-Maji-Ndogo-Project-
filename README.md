@@ -95,7 +95,7 @@ This page provides a comprehensive overview of the population distribution and w
 ---
 
 ### **Page 2: Queue Time Analysis** ⏳ 
-![Page 2 Queue Time Analysis](dashboard/Page%202%20Queue%20Time%20Analysis.jpg)  
+![Page 2 Queue Time Analysis](dashboard/Page%202%20Queue%20Time%20Analysis%20.jpg)  
 **Overview:**  
 This page analyzes queue times at shared taps, the most common water source in the region.  
 
